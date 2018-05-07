@@ -1,19 +1,29 @@
-.myCarousel {
-  position: relative;
-}
+
 
 #carouselTitle{
   position: absolute;
-  z-index: 2;
-  top: 32%;
-  left: 0;
+  top: 0;
+  /* left: 43%; */
+  bottom: 0;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   width: 100%;
-  color: #eee;
-  opacity: .6;
-  font-size: 72px;
+  color: #fff;
+  text-align: center;
+  opacity: .7;
+  font-size: 120px;
   text-shadow: 5px 5px 5px #222;
-
 
 }
 
+
+ @media screen and (max-width: 540px){
+  #carouselTitle{
+    font-size: 72px;
+  }
+} 
 
