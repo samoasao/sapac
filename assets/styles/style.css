@@ -6,6 +6,14 @@ body{
 h1, h2, h3, h4 {
   font-family: 'Permanent Marker', cursive;
 }
+.row{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.carousel{
+  background: url(../images/bg/footer_lodyas.png);
+}
 
 #carouselTitle{
   position: absolute;
@@ -27,11 +35,15 @@ h1, h2, h3, h4 {
 
 }
 
-.row{
-  padding-top: 10px;
-  padding-bottom: 10px;
+
+.event{
+  background: url(../images/bg/subtle_white_feathers.png);
 }
 
+.about{
+  background: url(../images/bg/subtle_white_feathers.png);
+  
+}
 
  @media screen and (max-width: 540px){
   #carouselTitle{
