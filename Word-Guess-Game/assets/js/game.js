@@ -34,7 +34,8 @@ var game = {
     },
     "stupefy": {
       picture: "https://media.giphy.com/media/wJgIwm20i6pxK/200.gif"
-    },
+    }
+  },
   gameStart: false,
   currentWord: "",
   underscores: [],
