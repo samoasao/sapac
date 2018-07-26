@@ -44,6 +44,11 @@ h1, h2, h3, h4, .navbar-brand {
   background: url(../images/bg/subtle_white_feathers.png);
 }
 
+.event-item{
+  background-color: white;
+}
+
+
 .about{
   background: url(../images/bg/subtle_white_feathers.png);
   
