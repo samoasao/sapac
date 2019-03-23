@@ -16,11 +16,11 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
       </a>
     </li>
     <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+      <a class="nav-link dropdown-toggle" href="#" id="shows-nav" role="button" data-toggle="dropdown" aria-haspopup="true"
         aria-expanded="false">
         Shows
       </a>
-      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <div class="dropdown-menu" aria-labelledby="shows-nav">
         <a class="dropdown-item" href="#events">Broadway Gala</a>
         <a class="dropdown-item" href="#events">Special Event</a>
         <a class="dropdown-item" href="#events">2019-2020 Season</a>
