@@ -21,10 +21,11 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
         Shows
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="#">Bat Boy</a>
-        <a class="dropdown-item" href="#">Chess</a>
+        <a class="dropdown-item" href="#events">Broadway Gala</a>
+        <a class="dropdown-item" href="#events">Special Event</a>
+        <a class="dropdown-item" href="#events">2019-2020 Season</a>
         <div class="dropdown-divider"></div>
-        <a class="dropdown-item" href="#">Auditions</a>
+        <a class="dropdown-item" href="auditions.html">Auditions</a>
       </div>
     </li>
     <li class="nav-item dropdown">
