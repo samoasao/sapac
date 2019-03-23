@@ -40,7 +40,7 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#"> Join Us </a>
+      <a class="nav-link" id="joinus-nav" href="joinus.html"> Join Us </a>
     </li>
 
 
