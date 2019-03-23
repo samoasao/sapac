@@ -14,7 +14,9 @@ h1, h2, h3, h4, .navbar-brand {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
+nav{
+  height:auto;
+}
 .carousel{
   background: url(../images/bg/footer_lodyas.png);
 }
@@ -22,21 +24,22 @@ h1, h2, h3, h4, .navbar-brand {
 #carouselTitle{
   position: absolute;
   top: 0;
-  left:0;
+  left: 0;
   bottom: 0;
   right: 0;
-  /* display: -ms-flexbox;
-  display: flex;
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-pack: center;
-  justify-content: center; */
   display: block;
   margin: auto;
   width: 50%;
-  opacity: .9;
+  opacity: .55;
   text-shadow: 5px 5px 5px #222;
+  background: white;
 
+}
+
+#logo-back{
+  background: white;
+  width: 100%;
+  /* z-index: 100; */
 }
 
 
