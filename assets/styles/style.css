@@ -14,9 +14,7 @@ h1, h2, h3, h4, .navbar-brand {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-nav{
-  height:auto;
-}
+
 .carousel{
   background: url(../images/bg/footer_lodyas.png);
 }

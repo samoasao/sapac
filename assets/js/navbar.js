@@ -9,7 +9,7 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
 
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
-  <ul class="navbar-nav ml-auto nav-tabs border-bottom-0">
+  <ul class="navbar-nav ml-auto  border-bottom-0">
     <li class="nav-item ">
       <a class="nav-link" href="index.html" id="home-nav">Home
         <span class="sr-only">(current)</span>
