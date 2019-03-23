@@ -19,8 +19,9 @@ h1, h2, h3, h4, .navbar-brand {
   padding-bottom: 10px;
 }
 
-.carousel{
-  background: url(../images/bg/footer_lodyas.png);
+.myCarouselSection{
+  background: url(../images/bg/Cover_Photo.jpg);
+  background-position-y: 50%;
 }
 
 #carouselTitle{
