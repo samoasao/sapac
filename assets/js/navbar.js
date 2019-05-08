@@ -36,6 +36,7 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
       <div class="dropdown-menu" aria-labelledby="about-nav">
         <a class="dropdown-item"  href="about.html">Our Founders</a>
         <a class="dropdown-item" href="board.html">Board Of Directors</a>
+        <a class="dropdown-item" href="donate.html">Donate</a>
          <!-- <a class="dropdown-item" href="#">History</a> -->
       </div>
     </li>
