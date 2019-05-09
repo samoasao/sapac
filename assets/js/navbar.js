@@ -21,8 +21,7 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
         Shows
       </a>
       <div class="dropdown-menu" aria-labelledby="shows-nav">
-        <a class="dropdown-item" href="index.html#events">Broadway Gala</a>
-        <a class="dropdown-item" href="index.html#events">Special Event</a>
+        <a class="dropdown-item" href="index.html#events">Gutenberg! The Musical!</a>
         <a class="dropdown-item" href="index.html#events">2019-2020 Season</a>
         <div class="dropdown-divider"></div>
         <a class="dropdown-item" href="auditions.html">Auditions</a>
