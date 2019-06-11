@@ -23,6 +23,8 @@ var navbarHtml = `<a class="navbar-brand" href="index.html">
       <div class="dropdown-menu" aria-labelledby="shows-nav">
         <a class="dropdown-item" href="index.html#events">Gutenberg! The Musical!</a>
         <a class="dropdown-item" href="index.html#title_of_show">[title of show]</a>
+        <a class="dropdown-item" href="index.html#hot_mikado">Hot Mikado</a>
+        <a class="dropdown-item" href="index.html#1776">1776</a>
         <div class="dropdown-divider"></div>
         <a class="dropdown-item" href="auditions.html">Auditions</a>
       </div>
